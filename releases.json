@@ -1,0 +1,13 @@
+{
+  "releases": [
+    {
+      "bundle_tag": "20260718.1",
+      "channel": "experimental",
+      "libraries_tag": "20260718.223501",
+      "packages": {
+        "mqtt": "0.27.0"
+      },
+      "published_at": "2026-07-18T22:36:15Z"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "urls": [
+    [
+      "chumicro_websockets/__init__.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_websockets/__init__.py"
+    ],
+    [
+      "chumicro_websockets/_session.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_websockets/_session.py"
+    ],
+    [
+      "chumicro_websockets/_wire.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_websockets/_wire.py"
+    ],
+    [
+      "chumicro_websockets/client.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_websockets/client.py"
+    ],
+    [
+      "chumicro_websockets/server.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_websockets/server.py"
+    ],
+    [
+      "chumicro_websockets/sockets_factory.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_websockets/sockets_factory.py"
+    ]
+  ],
+  "version": "0.24.1",
+  "deps": [
+    [
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets",
+      "20260718"
+    ],
+    [
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing",
+      "20260718"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "urls": [
+    [
+      "chumicro_kvstore/__init__.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_kvstore/__init__.py"
+    ],
+    [
+      "chumicro_kvstore/_backends/__init__.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_kvstore/_backends/__init__.py"
+    ],
+    [
+      "chumicro_kvstore/_backends/cp_nvm.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_kvstore/_backends/cp_nvm.py"
+    ],
+    [
+      "chumicro_kvstore/_backends/memory.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_kvstore/_backends/memory.py"
+    ],
+    [
+      "chumicro_kvstore/_backends/mp_littlefs.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_kvstore/_backends/mp_littlefs.py"
+    ],
+    [
+      "chumicro_kvstore/_backends/mp_nvs.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_kvstore/_backends/mp_nvs.py"
+    ],
+    [
+      "chumicro_kvstore/core.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_kvstore/core.py"
+    ]
+  ],
+  "version": "0.3.0",
+  "deps": [
+    [
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_msgpack",
+      "20260718"
+    ]
+  ]
+}

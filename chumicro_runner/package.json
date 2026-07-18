@@ -1,0 +1,27 @@
+{
+  "urls": [
+    [
+      "chumicro_runner/__init__.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_runner/__init__.py"
+    ],
+    [
+      "chumicro_runner/_generator.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_runner/_generator.py"
+    ],
+    [
+      "chumicro_runner/core.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_runner/core.py"
+    ],
+    [
+      "chumicro_runner/generators.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_runner/generators.py"
+    ]
+  ],
+  "version": "0.18.2",
+  "deps": [
+    [
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing",
+      "20260718"
+    ]
+  ]
+}

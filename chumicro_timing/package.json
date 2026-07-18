@@ -1,0 +1,21 @@
+{
+  "urls": [
+    [
+      "chumicro_timing/__init__.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing/__init__.py"
+    ],
+    [
+      "chumicro_timing/deadline.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing/deadline.py"
+    ],
+    [
+      "chumicro_timing/ticks.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing/ticks.py"
+    ],
+    [
+      "chumicro_timing/waits.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing/waits.py"
+    ]
+  ],
+  "version": "0.8.0"
+}

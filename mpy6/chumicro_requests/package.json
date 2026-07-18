@@ -1,0 +1,35 @@
+{
+  "urls": [
+    [
+      "chumicro_requests/__init__.mpy",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_requests/__init__.mpy"
+    ],
+    [
+      "chumicro_requests/_wire.mpy",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_requests/_wire.mpy"
+    ],
+    [
+      "chumicro_requests/client.mpy",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_requests/client.mpy"
+    ],
+    [
+      "chumicro_requests/generators.mpy",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_requests/generators.mpy"
+    ],
+    [
+      "chumicro_requests/sockets_factory.mpy",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_requests/sockets_factory.mpy"
+    ]
+  ],
+  "version": "0.18.0",
+  "deps": [
+    [
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_sockets",
+      "20260718"
+    ],
+    [
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_timing",
+      "20260718"
+    ]
+  ]
+}

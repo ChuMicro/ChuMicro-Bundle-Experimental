@@ -68,7 +68,7 @@ pip install chumicro-timing-experimental
 | [**chumicro-config**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/config) | 0.7.2 | Standardized runtime-config helpers for ChuMicro libraries — section loader + on-device runtime-config reader. |
 | [**chumicro-http_server**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/http_server) | 0.18.1 | Non-blocking HTTP/1.1 server for CircuitPython, MicroPython, and CPython. |
 | [**chumicro-kvstore**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/kvstore) | 0.3.0 | Tiny mutable key-value store for persisted runtime state — counters, timestamps, tokens — across CircuitPython, MicroPython, and CPython. |
-| [**chumicro-mqtt**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/mqtt) | 0.26.0 | Non-blocking MQTT 3.1.1 client (QoS 0+1) for CircuitPython, MicroPython, and CPython. |
+| [**chumicro-mqtt**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/mqtt) | 0.27.0 | Non-blocking MQTT 3.1.1 client (QoS 0+1) for CircuitPython, MicroPython, and CPython. |
 | [**chumicro-msgpack**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/msgpack) | 0.2.1 | Compact MessagePack serialization for CircuitPython, MicroPython, and CPython — delegates to the native C module when available. |
 | [**chumicro-ntp**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/ntp) | 0.12.1 | Runner-shaped SNTP client over an injected UDP socket — pure-Python, cross-runtime. |
 | [**chumicro-requests**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/requests) | 0.18.0 | Non-blocking HTTP/1.1 client for CircuitPython, MicroPython, and CPython. |

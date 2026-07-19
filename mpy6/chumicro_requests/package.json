@@ -21,15 +21,15 @@
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_requests/sockets_factory.mpy"
     ]
   ],
-  "version": "0.18.0",
+  "version": "0.18.1",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_sockets",
-      "20260718"
+      "20260719"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_timing",
-      "20260718"
+      "20260719"
     ]
   ]
 }

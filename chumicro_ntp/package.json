@@ -13,15 +13,15 @@
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_ntp/sockets_factory.py"
     ]
   ],
-  "version": "0.12.1",
+  "version": "0.12.2",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets",
-      "20260718"
+      "20260719"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing",
-      "20260718"
+      "20260719"
     ]
   ]
 }

@@ -29,15 +29,15 @@
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_wifi/service.py"
     ]
   ],
-  "version": "0.8.0",
+  "version": "0.8.1",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_config",
-      "20260718"
+      "20260719"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing",
-      "20260718"
+      "20260719"
     ]
   ]
 }

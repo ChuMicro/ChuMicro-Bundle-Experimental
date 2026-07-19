@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "bundle_tag": "20260719",
+      "channel": "experimental",
+      "libraries_tag": "20260719.115217",
+      "packages": {
+        "compat": "0.3.1",
+        "config": "0.7.3",
+        "http_server": "0.18.2",
+        "kvstore": "0.3.1",
+        "mqtt": "0.27.1",
+        "msgpack": "0.2.2",
+        "ntp": "0.12.2",
+        "requests": "0.18.1",
+        "runner": "0.18.3",
+        "sockets": "0.19.1",
+        "timing": "0.8.1",
+        "websockets": "0.24.2",
+        "wifi": "0.8.1"
+      },
+      "published_at": "2026-07-19T11:53:27Z"
+    },
+    {
       "bundle_tag": "20260718.1",
       "channel": "experimental",
       "libraries_tag": "20260718.223501",

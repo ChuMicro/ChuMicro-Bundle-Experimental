@@ -29,6 +29,10 @@
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets/generators.py"
     ],
     [
+      "chumicro_sockets/sockets_factory.py",
+      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets/sockets_factory.py"
+    ],
+    [
       "chumicro_sockets/waits.py",
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets/waits.py"
     ],
@@ -37,5 +41,5 @@
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets/_ca_bundle.der"
     ]
   ],
-  "version": "0.19.1"
+  "version": "0.20.0"
 }

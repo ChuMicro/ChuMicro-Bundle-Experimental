@@ -15,21 +15,17 @@
     [
       "chumicro_requests/generators.py",
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_requests/generators.py"
-    ],
-    [
-      "chumicro_requests/sockets_factory.py",
-      "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_requests/sockets_factory.py"
     ]
   ],
-  "version": "0.18.1",
+  "version": "0.19.0",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets",
-      "20260719"
+      "20260719.1"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing",
-      "20260719"
+      "20260719.1"
     ]
   ]
 }

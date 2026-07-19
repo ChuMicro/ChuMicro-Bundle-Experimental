@@ -19,21 +19,17 @@
     [
       "chumicro_websockets/server.mpy",
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_websockets/server.mpy"
-    ],
-    [
-      "chumicro_websockets/sockets_factory.mpy",
-      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_websockets/sockets_factory.mpy"
     ]
   ],
-  "version": "0.24.2",
+  "version": "0.25.0",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_sockets",
-      "20260719"
+      "20260719.1"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_timing",
-      "20260719"
+      "20260719.1"
     ]
   ]
 }

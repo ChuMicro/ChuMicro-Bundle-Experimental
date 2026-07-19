@@ -11,25 +11,21 @@
     [
       "chumicro_mqtt/client.mpy",
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_mqtt/client.mpy"
-    ],
-    [
-      "chumicro_mqtt/sockets_factory.mpy",
-      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_mqtt/sockets_factory.mpy"
     ]
   ],
-  "version": "0.27.1",
+  "version": "0.28.0",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_config",
-      "20260719"
+      "20260719.1"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_sockets",
-      "20260719"
+      "20260719.1"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_timing",
-      "20260719"
+      "20260719.1"
     ]
   ]
 }

@@ -7,21 +7,17 @@
     [
       "chumicro_ntp/core.mpy",
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_ntp/core.mpy"
-    ],
-    [
-      "chumicro_ntp/sockets_factory.mpy",
-      "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_ntp/sockets_factory.mpy"
     ]
   ],
-  "version": "0.12.2",
+  "version": "0.13.0",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_sockets",
-      "20260719"
+      "20260719.1"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/mpy6/chumicro_timing",
-      "20260719"
+      "20260719.1"
     ]
   ]
 }

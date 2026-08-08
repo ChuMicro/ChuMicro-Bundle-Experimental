@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "bundle_tag": "20260808.1",
+      "channel": "experimental",
+      "libraries_tag": "20260808.153719",
+      "packages": {
+        "mqtt": "0.28.2"
+      },
+      "published_at": "2026-08-08T15:38:40Z"
+    },
+    {
       "bundle_tag": "20260808",
       "channel": "experimental",
       "libraries_tag": "20260808.144516",

@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "bundle_tag": "20260809.2",
+      "channel": "experimental",
+      "libraries_tag": "20260809.215530",
+      "packages": {
+        "msgpack": "0.2.5"
+      },
+      "published_at": "2026-08-09T21:56:36Z"
+    },
+    {
       "bundle_tag": "20260809.1",
       "channel": "experimental",
       "libraries_tag": "20260809.213232",

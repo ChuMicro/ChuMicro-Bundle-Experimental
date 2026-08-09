@@ -76,7 +76,7 @@ pip install chumicro-timing-experimental
 | [**chumicro-sockets**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/sockets) | 0.21.1 | Cross-runtime TCP, TLS, and UDP sockets for CircuitPython, MicroPython, and CPython |
 | [**chumicro-timing**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/timing) | 0.8.2 | Wraparound-safe millisecond tick helpers plus wait value objects (deadlines, rates, signals) for CircuitPython, MicroPython, and CPython. |
 | [**chumicro-websockets**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/websockets) | 0.27.0 | Non-blocking WebSocket (RFC 6455) client and server for CircuitPython, MicroPython, and CPython. |
-| [**chumicro-wifi**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/wifi) | 0.10.0 | Unified wifi supervisor across CircuitPython, MicroPython, and CPython: sole-supervisor model with reconnect, state machine, and per-runtime adapters. |
+| [**chumicro-wifi**](https://github.com/ChuMicro/ChuMicro/tree/main/libraries/wifi) | 0.11.0 | Unified wifi supervisor across CircuitPython, MicroPython, and CPython: sole-supervisor model with reconnect, state machine, and per-runtime adapters. |
 
 Each root directory contains `.py` source and a `package.json` manifest for mip.  Pre-compiled `.mpy` bytecode is stored in two runtime-specific directories:
 

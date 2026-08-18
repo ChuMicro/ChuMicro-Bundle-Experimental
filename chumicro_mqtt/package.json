@@ -13,19 +13,19 @@
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_mqtt/client.py"
     ]
   ],
-  "version": "0.30.0",
+  "version": "0.30.1",
   "deps": [
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_config",
-      "20260809.1"
+      "20260818"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_sockets",
-      "20260809.1"
+      "20260818"
     ],
     [
       "github:ChuMicro/ChuMicro-Bundle-Experimental/chumicro_timing",
-      "20260809.1"
+      "20260818"
     ]
   ]
 }

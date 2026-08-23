@@ -1,6 +1,19 @@
 {
   "releases": [
     {
+      "bundle_tag": "20260823.3",
+      "channel": "experimental",
+      "libraries_tag": "20260823.222304",
+      "packages": {
+        "http_server": "0.21.3",
+        "mqtt": "0.30.3",
+        "ntp": "0.15.3",
+        "requests": "0.21.3",
+        "websockets": "0.27.3"
+      },
+      "published_at": "2026-08-23T22:24:07Z"
+    },
+    {
       "bundle_tag": "20260823.2",
       "channel": "experimental",
       "libraries_tag": "20260823.182703",
